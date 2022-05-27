@@ -25,4 +25,10 @@ here i make sure for each para notes will be somewhere around 5 lines with most 
 1. Steps are same just open a video instead of a image file.
 2. Using Play/Pause/Stop button we can control currently playing video.
 3. And on a running video just click "Take Notes". It will append new notes to previouslly created file.
-4. 
+![1](https://user-images.githubusercontent.com/65413333/170728177-f2b78b36-65a1-4f47-b20c-9687ab3b2711.png)
+
+Sample input:
+![2](https://user-images.githubusercontent.com/65413333/170728231-d229796d-f9c6-40fc-963f-644955815de2.png)
+Sample Output:
+![3](https://user-images.githubusercontent.com/65413333/170728270-c464c025-d6cf-4f2f-bbc2-039bf2abd5bf.png)
+![4](https://user-images.githubusercontent.com/65413333/170728292-efda2570-c6e5-4d9f-8cec-80a83b7b42fe.png)
