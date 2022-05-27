@@ -17,6 +17,7 @@ It will take write notes for you as well as screenshot of current screen & add b
 6. And that's it we successfully make notes for you.
 
 #### Output:
+here i make sure for each para notes will be somewhere around 5 lines with most relevant content.
 ![4](https://user-images.githubusercontent.com/65413333/170722973-25d71aca-15f1-43f0-8b89-fe1259f21947.png)
 ![5](https://user-images.githubusercontent.com/65413333/170722978-ed8836af-8f83-4c84-8e24-2acc9535d1f7.png)
 
